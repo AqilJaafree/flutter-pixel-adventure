@@ -15,7 +15,7 @@ class PixelAdventure extends FlameGame with HasKeyboardHandlerComponents, DragCa
   late final CameraComponent cam;
   Player player = Player(character: 'Mask Dude');
   late JoystickComponent joystick;
-  bool showJoystick = true;
+  bool showJoystick = false;
   
   
   @override
