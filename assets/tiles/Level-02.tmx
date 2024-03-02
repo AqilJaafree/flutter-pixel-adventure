@@ -29,10 +29,10 @@
 </data>
  </layer>
  <objectgroup id="4" name="Collisions" class="Platform">
-  <object id="4" type="Platform" x="48" y="32" width="16" height="304"/>
-  <object id="5" type="Platform" x="48" y="32" width="544" height="16"/>
-  <object id="6" type="Platform" x="576" y="32" width="16" height="304"/>
-  <object id="7" type="Platform" x="48" y="320" width="544" height="16"/>
+  <object id="4" x="48" y="32" width="16" height="304"/>
+  <object id="5" x="48" y="32" width="544" height="16"/>
+  <object id="6" x="576" y="32" width="16" height="304"/>
+  <object id="7" x="48" y="320" width="544" height="16"/>
   <object id="8" type="Platform" x="64" y="272" width="112" height="48"/>
   <object id="9" type="Platform" x="64" y="256" width="16" height="16"/>
   <object id="10" type="Platform" x="304" y="272" width="192" height="48"/>

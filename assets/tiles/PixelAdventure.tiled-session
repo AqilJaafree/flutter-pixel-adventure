@@ -21,11 +21,14 @@
             }
         },
         "Level-02.tmx": {
-            "scale": 1.5,
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 283.33333333333337,
-                "y": 183.66666666666663
+                "x": 15,
+                "y": 275.5
             }
         },
         "PixelAdventure.tsx": {
